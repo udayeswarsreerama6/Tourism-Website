@@ -4,7 +4,7 @@
 
 There are several ways of editing your application.
 
-
+Even we deployed this webisite that i mentioned the website you can click and open,it will go upto payments page and if you found any issue in the code or something in the project feel free to add the issue and intimate us.
 
 **Use your preferred IDE**
 
